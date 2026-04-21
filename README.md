@@ -57,3 +57,4 @@ SMS is ready for integration. Messages are currently logged and queued in the da
 
 The system uses Philippine Peso (₱). Prices are configurable per service type.
 "# 4f-reynan" 
+"# 4f-reynan" 
